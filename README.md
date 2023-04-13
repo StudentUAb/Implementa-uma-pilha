@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="c.png" />
+    <img width="600" src="ocaml.png" />
 </h1>
 
 
@@ -19,7 +19,7 @@ Instalamos o Ocaml seguindo a documentação e ficamos com a versão:
 The OCaml toplevel, version 4.14.0
 
 ------------------
-<img src="ocaml.png" alt="page-home">
+
 ## Sintaxe para compilar:
 
 <pre>ocamlc str.cma -o efolioA efolioA.ml
