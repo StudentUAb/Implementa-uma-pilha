@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="ocaml.png" />
+    <img width="900" src="ocaml.png" />
 </h1>
 
 
