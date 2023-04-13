@@ -22,11 +22,11 @@ The OCaml toplevel, version 4.14.0
 
 ## Sintaxe para compilar:
 
-<pre>ocamlc str.cma -o efolioA efolioA.ml
+<pre>ocamlc str.cma -o efolioA efolioA.ml </pre>
 cria os ficheiros .cmi e .cmo
 
-A ocamlopt efolioA.ml -o efolioA
-cria o binario executavel e os ficheiros .o e .cmx  </pre>
+<pre>ocamlopt efolioA.ml -o efolioA </pre>
+cria o binario executavel e os ficheiros .o e .cmx  
 
 ## Sintaxe para executar:
 <pre>./efolioA </pre>
